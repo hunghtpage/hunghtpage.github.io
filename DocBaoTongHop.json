@@ -74,7 +74,7 @@
     },
     {
       "Name": "tuoitre.vn",
-      "CSS": ".layer-app, .block-ad, .adsbygoogle, .hide-468, .ArfWrapper {display:none !important;} #comment_thread iframe {display:block !important;}"
+      "CSS": ".layer-app, .block-ad, .adsbygoogle, .hide-468, .ArfWrapper, #pqc_fixinpage_wrapper, #admbackground {display:none !important;} #comment_thread iframe {display:block !important;}"
     },
     {
       "Name": "ngoisao.vn",
