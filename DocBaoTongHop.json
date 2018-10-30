@@ -30,7 +30,7 @@
     },
     {
       "Name": "NguoiDuaTin.VN",
-      "CSS": ".adsbygoogle, #bs_inpage_container, iframe{display:none !important;}"
+      "CSS": ".adsbygoogle, #bs_inpage_container, .qcmobile {display:none !important;}"
     },
     {
       "Name": "XaLuan.Com",
