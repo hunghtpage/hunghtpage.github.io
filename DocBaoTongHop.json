@@ -86,7 +86,7 @@
     },
     {
       "Name": "soha.vn",
-      "CSS": ".adv, iframe, #admbackground {display:none !important;}"
+      "CSS": ".adv-box, #admframeRedirect, #ifrp_popup_ifr, #admbackground {display:none !important;}"
     },
     {
       "Name": "tintuconline.com.vn",
