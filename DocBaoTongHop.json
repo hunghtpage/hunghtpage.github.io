@@ -54,7 +54,7 @@
     },
     {
       "Name": "TinMoi.VN",
-      "CSS": ".adsbygoogle, iframe, #bs_ads_content {display:none !important;z-index:-1}"
+      "CSS": ".adsbygoogle, .box_block_ads, [id*='google_ads_iframe'], .mgbox, .box300-qc #AdAsia,#bs_mobileinpage, #innity-in-post, #bs_ads_content {display:none !important;z-index:-1}"
     },
     {
       "Name": "Kenh14.VN",
