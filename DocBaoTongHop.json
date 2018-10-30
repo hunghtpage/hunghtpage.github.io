@@ -82,7 +82,7 @@
     },
     {
       "Name": "baodatviet.vn",
-      "CSS": ".adsbygoogle, #bs_inpage_container, iframe  [id*='adm'] {display:none !important;}"
+      "CSS": ".adsbygoogle, .ads-by-google, [id*='div-gpt-ad'], #ulLatest div, .adsbyeclick, #bs_inpage_container, iframe  [id*='adm'] {display:none !important;}"
     },
     {
       "Name": "soha.vn",
