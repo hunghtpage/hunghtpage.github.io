@@ -22,7 +22,7 @@
     },
     {
       "Name": "ThanhNien.Com.VN",
-      "CSS": ".adsbygoogle, .install-content-app, [id*='div-gpt-ad-'], .qc, #admframeRedirect {display:none !important;}"
+      "CSS": ".adsbygoogle, .install-content-app, .qc, #admframeRedirect {display:none !important;}"
     },
     {
       "Name": "VTC.VN",
