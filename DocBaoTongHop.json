@@ -98,7 +98,7 @@
     },
     {
       "Name": "vov.vn",
-      "CSS": ".adsbygoogle, iframe {display:none !important;}"
+      "CSS": ".adsbygoogle, .has-qc, .qc-item {display:none !important;}"
     },
     {
       "Name": "bongdaplus.vn",
