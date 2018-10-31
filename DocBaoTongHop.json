@@ -118,7 +118,7 @@
     },
     {
       "Name": "ictnews.vn",
-      "CSS": ""
+      "CSS": "#AbdPopupAd, .c-ads-mobile, .adsbygoogle, #AdAsia, #bs_mobileinpage, [id*='InPage'] {display:none !important;}"
     },
     {
       "Name": "vnreview.vn",
