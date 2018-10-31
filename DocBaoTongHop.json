@@ -66,7 +66,7 @@
     },
     {
       "Name": "DoiSongPhapLuat.com",
-      "CSS": ".adsbygoogle, [id*='innity_adslot'], iframe {display:none !important;}"
+      "CSS": ".adsbygoogle, #admbackgroundinpage, [id$='_sync'], iframe[src*='http://m.doisongphapluat.com/?act=AdsViewNews'], [id*='innity_adslot'], [id*='wrapper-mobile'], .ads_mobile, #AdAsia,#advs_cont {display:none !important;}"
     },
     {
       "Name": "24h.Com.vn",
