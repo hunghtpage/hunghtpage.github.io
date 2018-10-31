@@ -122,7 +122,7 @@
     },
     {
       "Name": "vnreview.vn",
-      "CSS": ".app-notify, #adventist_content, ins, {display:none !important;}"
+      "CSS": ".app-notify, #adventist_content, ins {display:none !important;}"
     },
     {
       "Name": "genk.vn",
