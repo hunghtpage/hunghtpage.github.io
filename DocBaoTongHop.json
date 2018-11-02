@@ -46,7 +46,7 @@
     },
     {
       "Name": "VietGiaiTri.Com",
-      "CSS": ".fb-like fb_iframe_widget fb_iframe_widget_fluid, .showbanner, iframe {display:none !important;}"
+      "CSS": ".fb-like fb_iframe_widget fb_iframe_widget_fluid, .showbanner {display:none !important;}"
     },
     {
       "Name": "DanTri.Com.VN",
@@ -74,7 +74,7 @@
     },
     {
       "Name": "tuoitre.vn",
-      "CSS": ".layer-app, .block-ad, .adsbygoogle, .hide-468, .ArfWrapper, #pqc_fixinpage_wrapper, #admbackground {display:none !important;} #comment_thread iframe {display:block !important;}"
+      "CSS": ".layer-app, .block-ad, [id*='zone-jmp'], .adsbygoogle, .hide-468, .ArfWrapper, #pqc_fixinpage_wrapper, #admbackground {display:none !important;} #comment_thread iframe {display:block !important;}"
     },
     {
       "Name": "ngoisao.vn",
@@ -138,7 +138,7 @@
     },
     {
       "Name": "viettimes.vn",
-      "CSS": "#admbackground, [id*='adm_zone'], [id*='adm-slot']{display:none !important;}"
+      "CSS": "#admbackground, [id*='adm_zone'], [id*='adsMobile'], [id*='adm-slot']{display:none !important;}"
     },
     {
       "Name": "daikynguyenvn.com",
